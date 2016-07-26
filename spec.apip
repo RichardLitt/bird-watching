@@ -1,0 +1,17 @@
++ Instance
+    - type: "observation" (string) - One of: "observation"
+    - count: 1 (int)
+    - countType: "absolute" (string) - One of: "absolute, guess"
+    - lifeStage: "mature" (string) - One of: "mature", "immature", "egg", "altricial"
+    - living: true (boolean)
+    - coordinates: [55.9506047, -3.174156] (array[int], nullable) - Geographical coordinates. Optional.
+    - location: "Edinburgh" (string) - Natural language description of the general location
+    - country: "Scotland" (string) - Internationally recognized state.
+    - seen: "true" (boolean)
+    - heard: "false"
+    - sex: "m" (string, nullable) - One of: "m", "f".
+    - species: "Corvid corax" (string)
+    - speciesConfidence: 95 (int) - Between 0 and 100.
+    - notes: "In a blustery wind" (string)
+    - photo:
+    - date: "2016-11-02 12:04" (string)
