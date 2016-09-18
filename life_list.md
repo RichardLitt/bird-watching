@@ -101,6 +101,13 @@ Red Tailed Hawk, 1, -, Perching in field on the side of the road, Shelburne, 201
 Ring-necked Duck, 3, mff, Swimming, Fresh Pond, 2016-09-08 18:00
 Song Sparrow, 1, -, In underbrush, Fresh Pond, 2016-09-08 18:10
 Common Grackle, 1, -, Flying into marsh reeds, Alewife Marsh, 2016-09-11 13:00
+Osprey, 1, -, Flying, Quncy, 2016-09-17 15:00
+Little Egret, 15, -, On shore and flying in flock, Cohasset, 2016-09-17 19:00
+Sharp-shinned Hawk, 1, -, Flying and roosing near farm, Cohasset, 2016-09-18 16:00
+Chickadee, 1, -, Hopping through scrub, Cohasset, 2016-09-18 16:10
+Grey Catbird, 1, -, Hopping through scrub, Cohasset, 2016-09-18 16:10
+Downy Woodpecker, 2, -, On trees, Cohasset, 2016-09-18 16:10
+
 
 ### Hybrids
 Hooded Crow _Corvid cornix_ X Carrion Crow _Corvid corone_
@@ -116,15 +123,15 @@ White stork, 3, -, Sitting in nest, Train from Lisbon to Porto, 2016-06-21 13:19
 ## Pre-List List
 
 Quail
-Spoonbill
+- Spoonbill
 Bald Eagle
 - Red Tailed Hawk
 - Turkey
 - Piping Plover
 Glaucus Gull
 - American Robin
-Chickadee
-Osprey
+- Chickadee
+- Osprey
 Screech Owl
 Red-wing Blackbird
 - Tufted Titmouse
@@ -136,7 +143,7 @@ Western Scrub Jay
 - Turkey Vulture
 Black Vulture
 - Blue Heron
-Egret (type?)
+- Egret
 Great Northern Loon
 - Wood Duck
 Magpie (American type?)
@@ -150,5 +157,5 @@ Barn Owl
 - Kingfisher
 Bluebird
 Grackles
-Chicken
+- Chicken
 
