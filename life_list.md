@@ -107,6 +107,7 @@ Sharp-shinned Hawk, 1, -, Flying and roosing near farm, Cohasset, 2016-09-18 16:
 Chickadee, 1, -, Hopping through scrub, Cohasset, 2016-09-18 16:10
 Grey Catbird, 1, -, Hopping through scrub, Cohasset, 2016-09-18 16:10
 Downy Woodpecker, 2, -, On trees, Cohasset, 2016-09-18 16:10
+Bald Eagle, 1, -, Flying over the valley, near Richmond VT, 2016-09-24 10:30
 
 
 ### Hybrids
