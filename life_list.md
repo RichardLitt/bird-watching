@@ -111,6 +111,7 @@ Bald Eagle, 1, -, Flying over the valley, near Richmond VT, 2016-09-24 10:30
 Red-wing Blackbird, 30+, -, Flying around a marsh, Upstate NY, 2016-10-08 15:00
 Ring-billed Gull, 5+, -, Sitting on the pier, Toronto, 2016-10-13 14:00
 Dark-eyed Junco, 30+, -, Feeding and flying through roadside scrub, Easton, 2016-10-31 16:00
+Pileated Woodpecker, 1, -, Flying through tree tops, Easton, 2016-11-01 15:55
 
 ### Hybrids
 Hooded Crow _Corvid cornix_ X Carrion Crow _Corvid corone_
