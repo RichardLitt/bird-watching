@@ -47,7 +47,7 @@ Kestrel, 1, -, hovering and diving, Arthur's Seat, 2016-06-12 16:00
 Tufted Duck, 2, m+f, diving in Holyrood Loch, 2016-06-12 16:00
 Chaffinch, 2, f?, roosting and singing on top of trees, hard to identify except by song, 2016-06-12 16:00
 Fulmar, 2, m+f, nesting on Salisbury Crags, 2016-06-12 16:00
-Coal tit, 1, -, hopping around, George Square, 2016-06-14 17:15
+Coal Tit, 1, -, hopping around, George Square, 2016-06-14 17:15
 Dunnock, 1, m, fluffed up and singing in garden, George Square, 2016-06-14 17:15
 Sparrowhawk, 1, -, gliding and looking for prey at airport, Paris, 2016-15 20:00
 Egyptian Goose, 1, -, Eating in the park, Lisbon, 2016-06-17 13:00
@@ -103,7 +103,7 @@ Song Sparrow, 1, -, In underbrush, Fresh Pond, 2016-09-08 18:10
 Common Grackle, 1, -, Flying into marsh reeds, Alewife Marsh, 2016-09-11 13:00
 Osprey, 1, -, Flying, Quncy, 2016-09-17 15:00
 Little Egret, 15, -, On shore and flying in flock, Cohasset, 2016-09-17 19:00
-Sharp-shinned Hawk, 1, -, Flying and roosing near farm, Cohasset, 2016-09-18 16:00
+Sharp-shinned Hawk, 1, -, Flying and roosting near farm, Cohasset, 2016-09-18 16:00
 Chickadee, 1, -, Hopping through scrub, Cohasset, 2016-09-18 16:10
 Grey Catbird, 1, -, Hopping through scrub, Cohasset, 2016-09-18 16:10
 Downy Woodpecker, 2, -, On trees, Cohasset, 2016-09-18 16:10
@@ -125,7 +125,7 @@ White stork, 3, -, Sitting in nest, Train from Lisbon to Porto, 2016-06-21 13:19
 
 Quail
 - Spoonbill
-Bald Eagle
+- Bald Eagle
 - Red Tailed Hawk
 - Turkey
 - Piping Plover
@@ -134,7 +134,7 @@ Glaucus Gull
 - Chickadee
 - Osprey
 Screech Owl
-Red-wing Blackbird
+- Red-wing Blackbird
 - Tufted Titmouse
 - Cardinal
 Grosbeak (type?)
@@ -157,6 +157,6 @@ Pelican (type?)
 Barn Owl
 - Kingfisher
 Bluebird
-Grackles
+- Grackles
 - Chicken
 
