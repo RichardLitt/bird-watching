@@ -104,7 +104,7 @@ Common Grackle, 1, -, Flying into marsh reeds, Alewife Marsh, 2016-09-11 13:00
 Osprey, 1, -, Flying, Quncy, 2016-09-17 15:00
 Little Egret, 15, -, On shore and flying in flock, Cohasset, 2016-09-17 19:00
 Sharp-shinned Hawk, 1, -, Flying and roosting near farm, Cohasset, 2016-09-18 16:00
-Chickadee, 1, -, Hopping through scrub, Cohasset, 2016-09-18 16:10
+Black-Capped Chickadee, 1, -, Hopping through scrub, Cohasset, 2016-09-18 16:10
 Grey Catbird, 1, -, Hopping through scrub, Cohasset, 2016-09-18 16:10
 Downy Woodpecker, 2, -, On trees, Cohasset, 2016-09-18 16:10
 Bald Eagle, 1, -, Flying over the valley, near Richmond VT, 2016-09-24 10:30
