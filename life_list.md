@@ -126,7 +126,7 @@ White stork, 3, -, Sitting in nest, Train from Lisbon to Porto, 2016-06-21 13:19
 
 ## Pre-List List
 
-Quail
+California Quail
 - Spoonbill
 - Bald Eagle
 - Red Tailed Hawk
