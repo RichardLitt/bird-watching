@@ -112,6 +112,13 @@ Red-wing Blackbird, 30+, -, Flying around a marsh, Upstate NY, 2016-10-08 15:00
 Ring-billed Gull, 5+, -, Sitting on the pier, Toronto, 2016-10-13 14:00
 Dark-eyed Junco, 30+, -, Feeding and flying through roadside scrub, Easton, 2016-10-31 16:00
 Pileated Woodpecker, 1, -, Flying through tree tops, Easton, 2016-11-01 15:55
+Brown-eared Bulbul, 5+, -, Flying around, Tokyo, 2016-11-04 07:20
+Jungle Crow, 5+, -, Flying around, Tokyo, 2016-11-04 07:20
+Japanese White-eye, 4, -, Eating berries in a tree, Tokyo, 2016-11-04 07:20
+Pintail, 5+, mf, Swimming in park, Tokyo, 2016-11-04 07:20
+Eurasian Tree Sparrow, 4, -, Grazing in garden, Tokyo, 2016-11-04 07:25
+Oriental Turtle Dove, 1, -, Perched in tree, Tokyo, 2016-11-04 07:30
+Japanese Wagtail, 1, -, Wagging, Tokyo, 2016-11-04 07:40
 
 ### Hybrids
 Hooded Crow _Corvid cornix_ X Carrion Crow _Corvid corone_
