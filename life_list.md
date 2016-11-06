@@ -119,6 +119,12 @@
 - Eurasian Tree Sparrow, 4, -, Grazing in garden, Tokyo, 2016-11-04 07:25
 - Oriental Turtle Dove, 1, -, Perched in tree, Tokyo, 2016-11-04 07:30
 - Japanese Wagtail, 1, -, Wagging, Tokyo, 2016-11-04 07:40
+- Meadow Bunting, 3, -, Singing on tree top, Yokkaichi, 2016-11-05 07:20
+- White-cheeked Starling, 7, Flying and sitting in a tree, Yokkaichi, 2016-11-05 07:40
+- Lesser Spotted Woodpecker, 1, Aboreal, Mt. Gozaisho, 2016-11-05 11:00
+- Great Cormorant, 5+, -, Flying in formations, Yokkaichi, 2016-11-05 19:00
+- Daurian Redstart, 5+, mf, In the fringes, Yokkaichi, 2016-11-06 07:00
+- Bull-Headed Shrike, 5+, mf, In the fringes, Yokkaichi, 2016-11-06 07:00
 
 ### Hybrids
 - Hooded Crow _Corvid cornix_ X Carrion Crow _Corvid corone_
@@ -161,7 +167,7 @@ Magpie (American type?)
 - Goldfinch
 White Stork
 Grebe (type?)
-Red Kite (Indonesia?)
+Black Kite
 Pelican (type?)
 - Eider
 Barn Owl
