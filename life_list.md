@@ -125,6 +125,8 @@
 - Great Cormorant, 5+, -, Flying in formations, Yokkaichi, 2016-11-05 19:00
 - Daurian Redstart, 5+, mf, In the fringes, Yokkaichi, 2016-11-06 07:00
 - Bull-Headed Shrike, 5+, mf, In the fringes, Yokkaichi, 2016-11-06 07:00
+- Grey-headed Lapwing, 5+, -, In the rice fields, Yokkaichi, 2016-11-07 08:00
+- Spot-billed Duck, 5+, -, In river under the train, Nagoya, 2016-11-07 11:30
 
 ### Hybrids
 - Hooded Crow _Corvid cornix_ X Carrion Crow _Corvid corone_
