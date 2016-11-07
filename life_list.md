@@ -167,7 +167,7 @@ Great Northern Loon
 - Wood Duck
 Magpie (American type?)
 - Goldfinch
-White Stork
+- White Stork
 Grebe (type?)
 Black Kite
 Pelican (type?)
