@@ -127,6 +127,10 @@
 - Bull-Headed Shrike, 5+, mf, In the fringes, Yokkaichi, 2016-11-06 07:00
 - Grey-headed Lapwing, 5+, -, In the rice fields, Yokkaichi, 2016-11-07 08:00
 - Spot-billed Duck, 5+, -, In river under the train, Nagoya, 2016-11-07 11:30
+- Black Kite, 4, -, Hovering over city, Shinkansen, 2016-11-07 16:00
+- Eastern Great Egret, 1, -, Flying, Shinkansen, 2016-11-07 16:30
+- Eurasian Wigeon, 6, f, Dabbling in river, Oiso, 2016-11-08 07:45
+- Western Yellow Wagtail, 1, -, Dabbling on a stone in a river, Hakone, 2016-11-08 12:35
 
 ### Hybrids
 - Hooded Crow _Corvid cornix_ X Carrion Crow _Corvid corone_
