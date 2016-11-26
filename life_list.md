@@ -4,7 +4,7 @@
 - Townsend’s Warbler, 1, in a tree, Potrero Public Library, 01/22/2015
 - Greylag Goose, 10+, distance, South Harris, 2016-06-08 18:00
 - Red Breasted Merganser, 1, female, distance, South Harris, 2016-06-08 15:00
-- Hen Harrier, 2, from car, in flight and chasing each other, South Harris, 2016-06-08 3pm
+- Hen Harrier, 2, from car, in flight and chasing each other, South Harris, 2016-06-08 15:00
 - Oystercatcher, 10+, South Harris
 - Chicken _Gallus gallus domesticus_, 1, f, wandering around on road, Tarbert, 2016-06-08
 - Red Grouse
