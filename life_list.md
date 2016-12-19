@@ -1,7 +1,9 @@
 # Life List
 
+- California Quail, 1, Standing on a stump, Walker Creek Ranch, 2014-07-05 08:00
 - Yellow Rumped Warbler, 1, -, San Francisco, 2014-12-27 10:00
 - Townsend’s Warbler, 1, in a tree, Potrero Public Library, 2015-01-22
+- White Bellied Sea Eagle, 2, Nesting, Koh Lanta, 2016-05-20
 - Ruffed Grouse, 1, On trail, Great Smoky Mountains National Park, 2015-09-25 09:00
 - Brown Pelican, 3, Flying over the sea, Ano Nuevo State Park, 2016-05-03
 - Greylag Goose, 10+, distance, South Harris, 2016-06-08 18:00
@@ -150,7 +152,7 @@
 
 ## Pre-List List
 
-California Quail
+- California Quail
 - Spoonbill
 - Bald Eagle
 - Red Tailed Hawk
