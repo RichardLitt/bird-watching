@@ -167,7 +167,7 @@ Glaucus Gull
 - American Robin
 - Chickadee
 - Osprey
-Screech Owl
+- Screech Owl
 - Red-wing Blackbird
 - Tufted Titmouse
 - Cardinal
@@ -185,7 +185,7 @@ Magpie (American type?)
 - Goldfinch
 - White Stork
 Grebe (type?)
-Black Kite
+- Black Kite
 - Pelican (type?)
 - Eider
 Barn Owl
