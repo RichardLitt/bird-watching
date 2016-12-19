@@ -2,6 +2,7 @@
 
 - Yellow Rumped Warbler, 1, -, San Francisco, 2014-12-27 10:00
 - Townsend’s Warbler, 1, in a tree, Potrero Public Library, 2015-01-22
+- Ruffed Grouse, 1, On trail, Great Smoky Mountains National Park, 2015-09-25 09:00
 - Greylag Goose, 10+, distance, South Harris, 2016-06-08 18:00
 - Red Breasted Merganser, 1, female, distance, South Harris, 2016-06-08 15:00
 - Hen Harrier, 2, from car, in flight and chasing each other, South Harris, 2016-06-08 15:00
