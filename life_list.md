@@ -143,6 +143,7 @@
 - Eurasian Wigeon, 6, f, Dabbling in river, Oiso, 2016-11-08 07:45
 - Western Yellow Wagtail, 1, -, Dabbling on a stone in a river, Hakone, 2016-11-08 12:35
 - Japanese Pygmy Woodpecker, 2, -, Eating berries and woodpecking in a tree, Hakone, 2016-11-09 15:45
+- Eared Dove, 1, -, Sitting on wires, Buenos Aires, 2016-11-12 18:30
 
 ### Hybrids
 - Hooded Crow _Corvid cornix_ X Carrion Crow _Corvid corone_
