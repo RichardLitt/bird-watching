@@ -145,6 +145,8 @@
 - Japanese Pygmy Woodpecker, 2, -, Eating berries and woodpecking in a tree, Hakone, 2016-11-09 15:45
 - Picui Ground Dove, 1, -, Sitting in the street, Buenos Aires, 2016-11-12 11:30
 - Eared Dove, 1, -, Sitting on wires, Buenos Aires, 2016-11-12 18:30
+- Rufous-Bellied Thrush, 1, -, On ground, Buenos Aires, 2016-11-14 10:30
+- Monk Parakeet, 3, -, In trees, Buenos Aires, 2016-11-14 10:31
 
 ### Hybrids
 - Hooded Crow _Corvid cornix_ X Carrion Crow _Corvid corone_
@@ -196,4 +198,3 @@ Bluebird
 - Grackles
 - Chicken
 Northern Flicker
-
