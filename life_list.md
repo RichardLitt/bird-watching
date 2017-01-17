@@ -145,8 +145,12 @@
 - Japanese Pygmy Woodpecker, 2, -, Eating berries and woodpecking in a tree, Hakone, 2016-11-09 15:45
 - Picui Ground Dove, 1, -, Sitting in the street, Buenos Aires, 2016-11-12 11:30
 - Eared Dove, 1, -, Sitting on wires, Buenos Aires, 2016-11-12 18:30
-- Rufous-Bellied Thrush, 1, -, On ground, Buenos Aires, 2016-11-14 10:30
-- Monk Parakeet, 3, -, In trees, Buenos Aires, 2016-11-14 10:31
+- Rufous-Bellied Thrush, 1, -, On ground, Buenos Aires  Armenian park, 2016-11-14 10:30
+- Monk Parakeet, 3, -, In trees, Buenos Aires Armenian park, 2016-11-14 10:31
+- Picazuro Pigeon, 5+, -, Buenos Aires Botanical Gardens, 2016-11-15 14:00
+- Glittering-bellied Emerald, 5, -, Feeding, Buenos Aires Botanical Gardens, 2016-11-15 14:00
+- Creamy-bellied Thrush, 2, -, Feeding in tree, Buenos Aires Botanical Gardens, 2016-11-15 14:00
+- Great Kiskadee, 2, -, hopping around, Buenos Aires Botanical Gardens, 2016-11-15 14:00
 
 ### Hybrids
 - Hooded Crow _Corvid cornix_ X Carrion Crow _Corvid corone_
