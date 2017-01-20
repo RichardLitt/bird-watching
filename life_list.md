@@ -152,6 +152,7 @@
 - Creamy-bellied Thrush, 2, -, Feeding in tree, Buenos Aires Botanical Gardens, 2016-11-15 14:00
 - Great Kiskadee, 2, -, hopping around, Buenos Aires Botanical Gardens, 2016-11-15 14:00
 - Rufous Hornero, 1, -, Hopping around, Buenos Aires street, 2016-11-16 09:00
+- Yellow-chevroned parakeet, 5+, -, Eating in the park in a tree, Buenos Aires, 2016-11-20 08:00
 
 ### Hybrids
 - Hooded Crow _Corvid cornix_ X Carrion Crow _Corvid corone_
