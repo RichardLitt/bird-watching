@@ -153,6 +153,28 @@
 - Great Kiskadee, 2, -, hopping around, Buenos Aires Botanical Gardens, 2016-11-15 14:00
 - Rufous Hornero, 1, -, Hopping around, Buenos Aires street, 2016-11-16 09:00
 - Yellow-chevroned parakeet, 5+, -, Eating in the park in a tree, Buenos Aires, 2016-11-20 08:00
+- Nanday Parakeet, 3, -, In flight, Buenos Aires US Embassy, 2016-11-21 13:00
+- Shiny Cowbird, 4, m, Standing around, Buenos Aires near Luna Park, 2016-11-22, 15:00
+- Brown-chested Martin, 5+, -, Buenos Aires Ecological Reserve, 2016-11-22 15:00
+- Guira Cuckoo, 2, -, Sitting on boardwalk, Buenos Aires Ecological Reserve, 2016-11-22 15:00
+- Neotropical Cormorant, 5+, -, In flight and roosting and swimming, Buenos Aires Ecological Reserve, 2016-11-22 15:00
+- Rosy-billed pochard, 2, mf, Feeding, Buenos Aires Ecological Reserve, 2016-11-22 15:00
+- Limpkin, 2, -, Feeding, Buenos Aires Ecological Reserve, 2016-11-22 15:00
+- Red-gartered Coot, 3, -, Feeding, Buenos Aires Ecological Reserve, 2016-11-22 15:00
+- White-winged coot, 5+, -, Feeding, Buenos Aires Ecological Reserve, 2016-11-22 15:00
+- Silver Teal, 2, mf, Sitting, Buenos Aires Ecological Reserve, 2016-11-22 15:00
+- Plumbeus Rail, 1, -, Feeding, Buenos Aires Ecological Reserve, 2016-11-22 15:00
+- Pied-billed grebe, 3, -, Swimming and diving, Buenos Aires Ecological Reserve, 2016-11-22 17:00
+- Chimango Caracara, 2, -, Eating a pigeon on the boardwalk, Buenos Aires Ecological Reserve, 2016-11-22 17:00
+- Southern Crested Caracara, 1, -, In flight, Buenos Aires Ecological Reserve, 2016-11-22 17:00
+- Hooded Siskin, 1, m, Buenos Aires Ecological Reserve, 2016-11-22 15:00
+- Black-necked Swan, 2, -, In flight, Buenos Aires Ecological Reserve, 2016-11-22 17:00
+- Chalk-browed Mockingbird, 5+, Feeding, Buenos Aires Ecological Reserve, 2016-11-22 17:00
+- Green-barred Woodpecker, 2, In tree, Buenos Aires Ecological Reserve, 2016-11-22 17:00
+- Gray-breasted Martin, 5+ -, Buenos Aires Ecological Reserve, 2016-11-22 17:00
+- Black-backed Grosbeak, 2, mf, Buenos Aires Ecological Reserve, 2016-11-22 17:00
+- Roadside Hawk, 1, -, Flying, Buenos Aires Ecological Reserve, 2016-11-22 17:00
+- Red-fronted Coot, 1, -, Feeding, Buenos Aires Ecological Reserve, 2016-11-22 17:00
 
 ### Hybrids
 - Hooded Crow _Corvid cornix_ X Carrion Crow _Corvid corone_
