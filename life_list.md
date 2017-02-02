@@ -143,38 +143,38 @@
 - Eurasian Wigeon, 6, f, Dabbling in river, Oiso, 2016-11-08 07:45
 - Western Yellow Wagtail, 1, -, Dabbling on a stone in a river, Hakone, 2016-11-08 12:35
 - Japanese Pygmy Woodpecker, 2, -, Eating berries and woodpecking in a tree, Hakone, 2016-11-09 15:45
-- Eared Dove, 1, -, Sitting on wires, Buenos Aires, 2016-11-12 18:30
-- Rufous-Bellied Thrush, 1, -, On ground, Buenos Aires  Armenian park, 2016-11-14 10:30
-- Monk Parakeet, 3, -, In trees, Buenos Aires Armenian park, 2016-11-14 10:31
-- Picazuro Pigeon, 5+, -, Buenos Aires Botanical Gardens, 2016-11-15 14:00
-- Harris Hawk, 1, f, In tree, Buenos Aires Botanical Gardens, 2016-11-15 14:00
-- Glittering-bellied Emerald, 5, -, Feeding, Buenos Aires Botanical Gardens, 2016-11-15 14:00
-- Creamy-bellied Thrush, 2, -, Feeding in tree, Buenos Aires Botanical Gardens, 2016-11-15 14:00
-- Great Kiskadee, 2, -, hopping around, Buenos Aires Botanical Gardens, 2016-11-15 14:00
-- Rufous Hornero, 1, -, Hopping around, Buenos Aires street, 2016-11-16 09:00
-- Yellow-chevroned parakeet, 5+, -, Eating in the park in a tree, Buenos Aires, 2016-11-20 08:00
-- Nanday Parakeet, 3, -, In flight, Buenos Aires US Embassy, 2016-11-21 13:00
-- Shiny Cowbird, 4, m, Standing around, Buenos Aires near Luna Park, 2016-11-22, 15:00
-- Brown-chested Martin, 5+, -, Buenos Aires Ecological Reserve, 2016-11-22 15:00
-- Guira Cuckoo, 2, -, Sitting on boardwalk, Buenos Aires Ecological Reserve, 2016-11-22 15:00
-- Neotropical Cormorant, 5+, -, In flight and roosting and swimming, Buenos Aires Ecological Reserve, 2016-11-22 15:00
-- Rosy-billed pochard, 2, mf, Feeding, Buenos Aires Ecological Reserve, 2016-11-22 15:00
-- Limpkin, 2, -, Feeding, Buenos Aires Ecological Reserve, 2016-11-22 15:00
-- Red-gartered Coot, 3, -, Feeding, Buenos Aires Ecological Reserve, 2016-11-22 15:00
-- White-winged coot, 5+, -, Feeding, Buenos Aires Ecological Reserve, 2016-11-22 15:00
-- Silver Teal, 2, mf, Sitting, Buenos Aires Ecological Reserve, 2016-11-22 15:00
-- Plumbeus Rail, 1, -, Feeding, Buenos Aires Ecological Reserve, 2016-11-22 15:00
-- Pied-billed grebe, 3, -, Swimming and diving, Buenos Aires Ecological Reserve, 2016-11-22 17:00
-- Chimango Caracara, 2, -, Eating a pigeon on the boardwalk, Buenos Aires Ecological Reserve, 2016-11-22 17:00
-- Southern Crested Caracara, 1, -, In flight, Buenos Aires Ecological Reserve, 2016-11-22 17:00
-- Hooded Siskin, 1, m, Buenos Aires Ecological Reserve, 2016-11-22 15:00
-- Black-necked Swan, 2, -, In flight, Buenos Aires Ecological Reserve, 2016-11-22 17:00
-- Chalk-browed Mockingbird, 5+, Feeding, Buenos Aires Ecological Reserve, 2016-11-22 17:00
-- Green-barred Woodpecker, 2, In tree, Buenos Aires Ecological Reserve, 2016-11-22 17:00
-- Gray-breasted Martin, 5+ -, Buenos Aires Ecological Reserve, 2016-11-22 17:00
-- Black-backed Grosbeak, 2, mf, Buenos Aires Ecological Reserve, 2016-11-22 17:00
-- Roadside Hawk, 1, -, Flying, Buenos Aires Ecological Reserve, 2016-11-22 17:00
-- Red-fronted Coot, 1, -, Feeding, Buenos Aires Ecological Reserve, 2016-11-22 17:00
+- Eared Dove, 1, -, Sitting on wires, Buenos Aires, 2017-01-12 18:30
+- Rufous-Bellied Thrush, 1, -, On ground, Buenos Aires  Armenian park, 2017-01-14 10:30
+- Monk Parakeet, 3, -, In trees, Buenos Aires Armenian park, 2017-01-14 10:31
+- Picazuro Pigeon, 5+, -, Buenos Aires Botanical Gardens, 2017-01-15 14:00
+- Harris Hawk, 1, f, In tree, Buenos Aires Botanical Gardens, 2017-01-15 14:00
+- Glittering-bellied Emerald, 5, -, Feeding, Buenos Aires Botanical Gardens, 2017-01-15 14:00
+- Creamy-bellied Thrush, 2, -, Feeding in tree, Buenos Aires Botanical Gardens, 2017-01-15 14:00
+- Great Kiskadee, 2, -, hopping around, Buenos Aires Botanical Gardens, 2017-01-15 14:00
+- Rufous Hornero, 1, -, Hopping around, Buenos Aires street, 2017-01-16 09:00
+- Yellow-chevroned parakeet, 5+, -, Eating in the park in a tree, Buenos Aires, 2017-01-20 08:00
+- Nanday Parakeet, 3, -, In flight, Buenos Aires US Embassy, 2017-01-21 13:00
+- Shiny Cowbird, 4, m, Standing around, Buenos Aires near Luna Park, 2017-01-22, 15:00
+- Brown-chested Martin, 5+, -, Buenos Aires Ecological Reserve, 2017-01-22 15:00
+- Guira Cuckoo, 2, -, Sitting on boardwalk, Buenos Aires Ecological Reserve, 2017-01-22 15:00
+- Neotropical Cormorant, 5+, -, In flight and roosting and swimming, Buenos Aires Ecological Reserve, 2017-01-22 15:00
+- Rosy-billed pochard, 2, mf, Feeding, Buenos Aires Ecological Reserve, 2017-01-22 15:00
+- Limpkin, 2, -, Feeding, Buenos Aires Ecological Reserve, 2017-01-22 15:00
+- Red-gartered Coot, 3, -, Feeding, Buenos Aires Ecological Reserve, 2017-01-22 15:00
+- White-winged coot, 5+, -, Feeding, Buenos Aires Ecological Reserve, 2017-01-22 15:00
+- Silver Teal, 2, mf, Sitting, Buenos Aires Ecological Reserve, 2017-01-22 15:00
+- Plumbeus Rail, 1, -, Feeding, Buenos Aires Ecological Reserve, 2017-01-22 15:00
+- Pied-billed grebe, 3, -, Swimming and diving, Buenos Aires Ecological Reserve, 2017-01-22 17:00
+- Chimango Caracara, 2, -, Eating a pigeon on the boardwalk, Buenos Aires Ecological Reserve, 2017-01-22 17:00
+- Southern Crested Caracara, 1, -, In flight, Buenos Aires Ecological Reserve, 2017-01-22 17:00
+- Hooded Siskin, 1, m, Buenos Aires Ecological Reserve, 2017-01-22 15:00
+- Black-necked Swan, 2, -, In flight, Buenos Aires Ecological Reserve, 2017-01-22 17:00
+- Chalk-browed Mockingbird, 5+, Feeding, Buenos Aires Ecological Reserve, 2017-01-22 17:00
+- Green-barred Woodpecker, 2, In tree, Buenos Aires Ecological Reserve, 2017-01-22 17:00
+- Gray-breasted Martin, 5+ -, Buenos Aires Ecological Reserve, 2017-01-22 17:00
+- Black-backed Grosbeak, 2, mf, Buenos Aires Ecological Reserve, 2017-01-22 17:00
+- Roadside Hawk, 1, -, Flying, Buenos Aires Ecological Reserve, 2017-01-22 17:00
+- Red-fronted Coot, 1, -, Feeding, Buenos Aires Ecological Reserve, 2017-01-22 17:00
 
 ### Hybrids
 - Hooded Crow _Corvid cornix_ X Carrion Crow _Corvid corone_
