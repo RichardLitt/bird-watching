@@ -175,6 +175,7 @@
 - Black-backed Grosbeak, 2, mf, Buenos Aires Ecological Reserve, 2017-01-22 17:00
 - Roadside Hawk, 1, -, Flying, Buenos Aires Ecological Reserve, 2017-01-22 17:00
 - Red-fronted Coot, 1, -, Feeding, Buenos Aires Ecological Reserve, 2017-01-22 17:00
+- Southern Lapwing, 5+, -, Feeding in fields, Buenos Aires Highway, 2017-01-2 13:00
 
 ### Hybrids
 - Hooded Crow _Corvid cornix_ X Carrion Crow _Corvid corone_
