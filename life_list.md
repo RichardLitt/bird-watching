@@ -178,6 +178,7 @@
 - Southern Lapwing, 5+, -, Feeding in fields, Buenos Aires Highway, 2017-01-2 13:00
 - Great-tailed Grackle, 2, -, Sitting on a sign on the runway, Miami, 2017-02-03 06:00
 - Hooded Merganser, 11, mf, Swimming in Fresh Pond, Cambridge, 2017-02-03 10:30
+- Peregrine Falcon, 2, mf, Wheeling over downtown Burlington, Burlington VT, 2017-02-05 12:55
 
 ### Hybrids
 - Hooded Crow _Corvid cornix_ X Carrion Crow _Corvid corone_
