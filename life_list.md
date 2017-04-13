@@ -179,6 +179,7 @@
 - Great-tailed Grackle, 2, -, Sitting on a sign on the runway, Miami, 2017-02-03 06:00
 - Hooded Merganser, 11, mf, Swimming in Fresh Pond, Cambridge, 2017-02-03 10:30
 - Peregrine Falcon, 2, mf, Wheeling over downtown Burlington, Burlington VT, 2017-02-05 12:55
+- Winter Wren, 1, -, Flitting about under the wooden bridge in the woods, Montreal, 2017-04-11 16:00
 
 ### Hybrids
 - Hooded Crow _Corvid cornix_ X Carrion Crow _Corvid corone_
