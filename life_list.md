@@ -181,6 +181,9 @@
 - Peregrine Falcon, 2, mf, Wheeling over downtown Burlington, Burlington VT, 2017-02-05 12:55
 - Winter Wren, 1, -, Flitting about under the wooden bridge in the woods, Montreal, 2017-04-11 16:00
 - Brown Creeper, 1, m, Dead under an apartment building, Montreal, 2017-04-17 12:30
+- Northern Wheatear, 2, -, Tempelhof, Berlin, 2017-04-27 07:00
+- Goshawk, 1, -, Tempelhof, Berlin, 2017-04-27 07:10
+- Song Thrush, 1, -, Volkspark Hasenheide, Berlin, 2017-04-27 07:30
 
 ### Hybrids
 - Hooded Crow _Corvid cornix_ X Carrion Crow _Corvid corone_
