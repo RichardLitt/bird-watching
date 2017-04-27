@@ -52,7 +52,7 @@
 - Mute Swan, 10+, swimming, Holyrood Loch
 - Mallard, 10+, swimming, Holyrood Loch
 - Wood Pigeon, 10+, everywhere, Edinburgh
-- Water Hen, 1, -, swimming, Holyrood Loch, 2016-06-12
+- Moorhen, 1, -, swimming, Holyrood Loch, 2016-06-12
 - Coot, 1, -, swimming, Holyrood Loch, 2016-06-12
 - Kestrel, 1, -, hovering and diving, Arthur's Seat, 2016-06-12 16:00
 - Tufted Duck, 2, m+f, diving in Holyrood Loch, 2016-06-12 16:00
