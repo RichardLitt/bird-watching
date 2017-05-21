@@ -56,7 +56,7 @@
 - Coot, 1, -, swimming, Holyrood Loch, 2016-06-12
 - Kestrel, 1, -, hovering and diving, Arthur's Seat, 2016-06-12 16:00
 - Tufted Duck, 2, m+f, diving in Holyrood Loch, 2016-06-12 16:00
-- Chaffinch, 2, f?, roosting and singing on top of trees, hard to identify except by song, 2016-06-12 16:00
+- Chaffinch, 2, f?, roosting and singing on top of trees, hard to identify except by song, 2016-06-12 16:00 (Note - Saw on 2017-05-19 mf Lismore)
 - Fulmar, 2, m+f, nesting on Salisbury Crags, 2016-06-12 16:00
 - Coal Tit, 1, -, hopping around, George Square, 2016-06-14 17:15
 - Dunnock, 1, m, fluffed up and singing in garden, George Square, 2016-06-14 17:15
@@ -184,6 +184,12 @@
 - Northern Wheatear, 2, -, Tempelhof, Berlin, 2017-04-27 07:00
 - Goshawk, 1, -, Tempelhof, Berlin, 2017-04-27 07:10
 - Song Thrush, 1, -, Volkspark Hasenheide, Berlin, 2017-04-27 07:30
+- Red Kite, 3, -, At viewing center, Doune, Scotland, 2017-05-16 17:00
+- Goosander, 4, mf, In streams, Doune, 2017-05-17 07:00
+- Little Grebe, 2, mf, in loch, Callander, 2017-05-17 07:30
+- European Robin, 5+, m, All over, Lismore, 2017-05-18 16:00
+- Buzzard, 3, mf, Hovering over cliffs, Lismore, 2017-05-18 17:00
+- Common Loon (Great Northern Diver), 2, m, In ocean, Oban, 2017-05-19 16:00
 
 ### Hybrids
 - Hooded Crow _Corvid cornix_ X Carrion Crow _Corvid corone_
@@ -220,12 +226,12 @@ Western Scrub Jay
 Black Vulture
 - Blue Heron
 - Egret
-Great Northern Loon
+- Great Northern Loon
 - Wood Duck
 Magpie (American type?)
 - Goldfinch
 - White Stork
-Grebe (type?)
+- Grebe (type?)
 - Black Kite
 - Pelican (type?)
 - Eider
