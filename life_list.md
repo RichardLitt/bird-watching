@@ -190,9 +190,7 @@
 - European Robin, 5+, m, All over, Lismore, 2017-05-18 16:00
 - Buzzard, 3, mf, Hovering over cliffs, Lismore, 2017-05-18 17:00
 - Common Loon (Great Northern Diver), 2, m, In ocean, Oban, 2017-05-19 16:00
-
-### Hybrids
-- Hooded Crow _Corvid cornix_ X Carrion Crow _Corvid corone_
+- Blue tit, 1, m, Next to canal, Oxford, 2017-05-24 11:20
 
 ### Notable subspecies
 - Rock Dove, pure-blood
