@@ -186,7 +186,6 @@
 - Song Thrush, 1, -, Volkspark Hasenheide, Berlin, 2017-04-27 07:30
 - Red Kite, 3, -, At viewing center, Doune, Scotland, 2017-05-16 17:00
 - Goosander, 4, mf, In streams, Doune, 2017-05-17 07:00
-- Little Grebe, 2, mf, in loch, Callander, 2017-05-17 07:30
 - European Robin, 5+, m, All over, Lismore, 2017-05-18 16:00
 - Buzzard, 3, mf, Hovering over cliffs, Lismore, 2017-05-18 17:00
 - Common Loon (Great Northern Diver), 2, m, In ocean, Oban, 2017-05-19 16:00
