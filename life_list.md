@@ -190,6 +190,7 @@
 - Buzzard, 3, mf, Hovering over cliffs, Lismore, 2017-05-18 17:00
 - Common Loon (Great Northern Diver), 2, m, In ocean, Oban, 2017-05-19 16:00
 - Blue tit, 1, m, Next to canal, Oxford, 2017-05-24 11:20
+- Fieldfare, 1, m, Saxon Gardens, Warsaw, 2017-05-25 18:40
 
 ### Notable subspecies
 - Rock Dove, pure-blood
