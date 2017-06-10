@@ -192,6 +192,7 @@
 - Blue tit, 1, m, Next to canal, Oxford, 2017-05-24 11:20
 - Fieldfare, 1, m, Saxon Gardens, Warsaw, 2017-05-25 18:40
 - Great Tit, 2, mf, Palace of Culture, Warsaw, 2017-05-26 12:00
+- Bullfinch, 1, f, On telephone Wires, Glasgow, 2017-06-06 09:00
 
 ### Notable subspecies
 - Rock Dove, pure-blood
