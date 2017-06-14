@@ -192,6 +192,10 @@
 - Fieldfare, 1, m, Saxon Gardens, Warsaw, 2017-05-25 18:40
 - Great Tit, 2, mf, Palace of Culture, Warsaw, 2017-05-26 12:00
 - Bullfinch, 1, f, On telephone Wires, Glasgow, 2017-06-06 09:00
+- Waxwing, 1, -, In bush, Moffat, 2017-06-13 09:30
+- Meadow pipit, 10+, -, On moor, Moffat, 2017-06-13 10:00
+- Grey Wagtail, 1, -, On stream, Talla Resevoir, 2017-06-13 16:00
+- European Goldfinch, 1, m, On Castle Cliffs, Edinburgh, 2017-06-14 15:30
 
 ### Notable subspecies
 - Rock Dove, pure-blood
