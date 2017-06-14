@@ -79,7 +79,7 @@
 - Cattle egret, 5+, -, Feeding on flats -- suspect because too small to be little egrets. Will have to check.
 - White stork, 1, -, Feeding in a field, Train from Lisbon to Porto, 2016-06-21 12:27
 - Pallid Swallow, 100+, -, Feeding in Porto, Porto, 2016-07-08 22:00
-- Ruddy Dunlin, 2, -, Sitting on a boat in a marsh, Porto, 2016-07-09 21:00
+- Dunlin, 2, -, Sitting on a boat in a marsh, Porto, 2016-07-09 21:00
 - American Robin, 1, -, All over the place, Boston, 2016-07-31
 - Cooper's Hawk, 2, j, Two juveniles near their nest on Beacon, Boston, 2016-07-31
 - Mourning Dove, 1, -, Flying, Boston, 2016-08-01
@@ -97,7 +97,6 @@
 - Common Eider, 5, Swimming, Provincetown Harbor, 2016-08-27 12:00
 - Great Blue Heron, 1, -, Hunting, Truro, 2016-08-27 13:00
 - Common Tern, many, -, Flying and perching, Truro Beaches, 2016-08-27 15:00
-- Dunlin, many, -, On outer beach, Truro Beach, 2016-8-27 16:00
 - Tree Swallow, many, -, Hunting, Ballston Beach, 2016-08-27 16:00
 - Piping Plover, 1, -, On shore, North Truro, 2016-08-27 16:30
 - Belted Kingfisher, 2, -, Perching, Mill Pond in Truro, 2016-08-27 18:00
