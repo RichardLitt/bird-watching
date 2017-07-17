@@ -196,6 +196,10 @@
 - Meadow pipit, 10+, -, On moor, Moffat, 2017-06-13 10:00
 - Grey Wagtail, 1, -, On stream, Talla Resevoir, 2017-06-13 16:00
 - European Goldfinch, 1, m, On Castle Cliffs, Edinburgh, 2017-06-14 15:30
+- Western Gull, 5+, -, Oakland highway, Oakland CA, 2017-06-17 10:00
+- California Scrub Jay, 2, -, In undergrowth, Santa Cruz, 2016-06-17 17:00
+- American Bushtit, 25+, -, In chaparral understory, Santa Cruz, 2016-06-18 07:00
+- Acorn Woodpecker, 3, -, In the woods near the cabin, Santa Cruz, 2016-06-18 09:00
 
 ### Notable subspecies
 - Rock Dove, pure-blood
