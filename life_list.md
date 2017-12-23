@@ -201,6 +201,9 @@
 - American Bushtit, 25+, -, In chaparral understory, Santa Cruz, 2017-06-18 07:00
 - Acorn Woodpecker, 3, -, In the woods near the cabin, Santa Cruz, 2017-06-18 09:00
 - Killdeer, 1, -, In corn field, Jericho VT, 2017-10-11 18:00
+- Red Necked Grebe, 2, mf, In surf, Cohasset, MA, 2017-12-23 11:30
+- Common Goldeneye, 2, mf, In surf, Cohasset, MA, 2017-12-23 11:30
+- Sanderling, 1, -, On beach, Cohasset, MA, 2017-12-23 11:20
 
 ### Notable subspecies
 - Rock Dove, pure-blood
