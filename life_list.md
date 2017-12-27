@@ -204,6 +204,8 @@
 - Red Necked Grebe, 2, mf, In surf, Cohasset, MA, 2017-12-23 11:30
 - Common Goldeneye, 2, mf, In surf, Cohasset, MA, 2017-12-23 11:30
 - Sanderling, 1, -, On beach, Cohasset, MA, 2017-12-23 11:20
+- White Winged Scoter, 2, -, On beach, Wellfleet, MA, 2017-12-24 15:00
+- Great Horned Owl, 2, -, Pine grove, Cohasset, MA, 2017-12-25 16:30
 
 ### Notable subspecies
 - Rock Dove, pure-blood
