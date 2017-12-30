@@ -206,6 +206,7 @@
 - Sanderling, 1, -, On beach, Cohasset, MA, 2017-12-23 11:20
 - White Winged Scoter, 2, -, On beach, Wellfleet, MA, 2017-12-24 15:00
 - Great Horned Owl, 2, -, Pine grove, Cohasset, MA, 2017-12-25 16:30
+- Carolina Chickadee, 4, -, Pine, Cheaha Mountain, AL, 2017-12-30 7:20
 
 ### Notable subspecies
 - Rock Dove, pure-blood
