@@ -43,7 +43,7 @@
 - [x] Shag, 1, -, sunning itself, Sound of Harris
 - [x] Great Skua, 1, -, in flight, Sound of Harris
 - [x] Golden Eagle, 1, -, at a distance briefly on an updraft, Glen Shiel
-- [ ] Canadian Goose, 10+, feeding on grass, Kinlochleven & Duddingston, 2016-06-13
+- [ ] Canada Goose, 10+, feeding on grass, Kinlochleven & Duddingston, 2016-06-13
 - [ ] Rook, 3~, in flight and pecking on roofs, Castle Terrace
 - [ ] Carrion Crow, 10+, -, Edinburgh
 - [ ] Pheasant, 1, m, on ground in field from train, Edinburgh Tramline, 2016-06-12
