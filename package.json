@@ -1,0 +1,24 @@
+{
+  "name": "bird-watching",
+  "version": "1.0.0",
+  "description": "This **was** my birdwatching list. I have now moved all of my lists to [eBird](http://ebird.org/), and I no longer keep this updated.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichardLitt/bird-watching.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RichardLitt/bird-watching/issues"
+  },
+  "homepage": "https://github.com/RichardLitt/bird-watching#readme",
+  "dependencies": {
+    "csvtojson": "^2.0.8",
+    "lodash": "^4.17.11"
+  }
+}
