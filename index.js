@@ -21,18 +21,16 @@ function removeSpuhs (arr) {
   })
 }
 
-function eBirdStats () {
+function eBirdStats (birds) {
   console.log('Data points: ', birds.length)
   // Dedupe Spuhs
   console.log('Bird spuhs: ', dedupeByKey(birds, 'Scientific Name').length)
 }
 
-function speciesCount () {
+function speciesCount (birds) {
   // Note: This doesn't quite match Scientific Name. There's something odd going on where there are five more species than there are Commonly Named birds. This does, however, match the eBird count.
   // TODO Why didn't I use dedupeByKey here?
-  const unique = [...new Set(removeSpuhs(birds).map(bird => bird['Common Name']))]
-
-  console.log('Bird species: ', unique.length)
+  console.log('Bird species: ', [...new Set(removeSpuhs(birds).map(bird => bird['Common Name']))].length)
 }
 
 // Arg provided to account for global vs locational counts
@@ -48,7 +46,7 @@ function firstSeen (birds, timespan) {
     }
     // Note - 01-01 is returned, not 2018-01-01
     return _.map(arr, (i) => {
-      return moment.isBefore(i)
+      return moment(i).isBefore(i)
     })
   }
 
@@ -73,6 +71,7 @@ TODO Print a list of days which are the first days that you have
   - Country
   - State
   - County
+  - Yard
   - Month
   - Day
 - Photographed a bird
@@ -87,7 +86,7 @@ TODO Print a list of days which are the first days that you have
   - County
  */
 
-// eBirdStats()
-speciesCount()
+eBirdStats(birds)
+speciesCount(birds)
 // console.log(birds[1])
 firstSeen(birds)
