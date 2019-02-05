@@ -7,6 +7,7 @@ const moment = require('moment')
 // $ npm i -g csvtojson
 // $ csvtojson MyEBirdData.csv > data.json
 const birds = require('./data.json')
+const mediaData = require('./media.json')
 
 function dedupeByKey (arr, key) {
   const temp = arr.map(el => el[key])
@@ -58,6 +59,15 @@ function firstSeen (birds, timespan) {
   console.log(filterByOldest(birds)[0])
 
   //return combineByDateSegment(filterByOldest())
+}
+
+// TODO This function will link together bird entries from eBird with
+// their media equivalents, using the eBird checklist ID, to show whether
+// or not (and when, and so on) I have photographed or recorded a bird.
+// birds = eBird data
+// mediaData = media data from Macaulay Library
+function linkPhotographs (birds, media) {
+  // TODO Write
 }
 
 /* TODO Find birds by country
